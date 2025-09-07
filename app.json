@@ -7,7 +7,8 @@
          "modular",
          "group",
          "manager",
-         "HuTao"
+         "HuTao", 
+         "IVANXMANAGEMENT"
       ],   
    "repository": "https://github.com/TeamNovaX/Hu-Tao",
    "stack": "heroku-22",
