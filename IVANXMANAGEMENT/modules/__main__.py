@@ -1,4 +1,4 @@
 """
 MIT License
-Copyright (c) 2023, ©NovaNetworks
+Copyright (c) 2023, ©IvanNetworks
 """
